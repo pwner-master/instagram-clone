@@ -1,1 +1,1 @@
-I did this project as I was trying to learn laravel framework
+I did this project as I was learning laravel framework
